@@ -1,3 +1,17 @@
+## HOW TO REPRODUCE THE CODE:
+
+STEP 1: GIT / CLONE the code under your working directory
+Eg. <working directory> / ExData_Plotting1
+
+STEP 2: PLACE THE "household_power_consumption.txt" FILE DIRECTLY UNDER THE <working directory>
+
+STEP 3: RUN THE .R CODE IN THE Exdata_Plotting1 folder
+E.g. for generating plot1
+  > library(data.table)
+  > source("Exdata_Plotting1/plot1.R")
+  > plot1()
+  .png file plot1.png will be generated directly under ExData_Plotting1 folder
+
 ## Introduction
 
 This assignment uses data from
